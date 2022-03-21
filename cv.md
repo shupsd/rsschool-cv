@@ -18,3 +18,13 @@ function sum(a, b) {
     return a + b;
 }
 ```
+
+# Work experience:
+I have no work experience. But I hope to get some soon :)
+
+# Education:
+* 11 grades of school
+* 1 year in BSU
+
+# English level:
+My English is about A1-A2
